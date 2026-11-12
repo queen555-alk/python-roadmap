@@ -8,4 +8,4 @@ for number in range(1, 101):
         print(f"{number} buzz")
    
     else:
-        
+        print(f"{number}")
